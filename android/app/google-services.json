@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92055784684",
+    "project_id": "manga-tracker-a52cf",
+    "storage_bucket": "manga-tracker-a52cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92055784684:android:10dce9310c7965f457e9c9",
+        "android_client_info": {
+          "package_name": "com.majin.manga_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92055784684-o0qssnt83f6pjp71eq12iq7c8qq3agd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYXMonQeg5ubHUemYvsf36s3Qgd90XETA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92055784684-o0qssnt83f6pjp71eq12iq7c8qq3agd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
